@@ -1,0 +1,13 @@
+package com.myjavaapplication;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class MyjavaapplicationApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
